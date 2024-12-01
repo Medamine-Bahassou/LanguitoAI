@@ -1,6 +1,6 @@
 import streamlit as st
 
-
+  
 pages = {
     "Principal": [
         st.Page("pages/home/main.py", title="🏠 Home "),
